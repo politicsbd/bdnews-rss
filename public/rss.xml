@@ -1,16 +1,2 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-  <channel>
-    <title>BD News AI</title>
-    <link>https://bdnews-ai.vercel.app</link>
-    <description>বাংলাদেশ ও প্রতিবেশী দেশের রাজনৈতিক বিশ্লেষণ</description>
-    <language>bn</language>
-    <item>
-      <title>রাজনৈতিক অস্থিরতা ও সরকারের অবস্থান: ২ মে ২০২৫</title>
-      <link>https://bdnews-ai.vercel.app/posts/2025-05-02.html</link>
-      <description>আজকের রাজনৈতিক পরিস্থিতি বিশ্লেষণে দেখা যাচ্ছে...</description>
-      <pubDate>Fri, 02 May 2025 21:00:00 +0600</pubDate>
-      <guid>2025-05-02</guid>
-    </item>
-  </channel>
-</rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0"><channel><title>BD News RSS Feed</title><link>https://bdgeopolitics.com</link><description>বাংলাদেশের রাজনীতি ও প্রতিবেশী দেশের বিশ্লেষণধর্মী খবর</description><item><title>টেস্ট পোস্ট: dlvr.it সেটআপ সফল</title><link>https://bdgeopolitics.com/test-post</link><description>এটি একটি পরীক্ষামূলক টেস্ট পোস্ট যা dlvr.it এর মাধ্যমে Facebook Page-এ যাবে।</description><pubDate>Sat, 03 May 2025 12:00:00 +0600</pubDate><guid>bdnews-test-post-123</guid></item></channel></rss>
